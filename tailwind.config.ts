@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Adventure & Connection Colors
+				forest: 'hsl(var(--forest-green))',
+				river: 'hsl(var(--river-blue))',
+				sunset: 'hsl(var(--sunset-orange))',
+				earth: 'hsl(var(--earth-brown))',
+				gold: 'hsl(var(--warm-gold))',
+				// Emotional Colors  
+				hope: 'hsl(var(--hope-light))',
+				trust: 'hsl(var(--trust-blue))',
+				concern: 'hsl(var(--concern-gray))',
+				relief: 'hsl(var(--relief-green))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
