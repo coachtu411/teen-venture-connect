@@ -16,21 +16,6 @@ const ExperienceSection = () => {
           </p>
         </div>
 
-        {/* Video */}
-        <div className="mb-16 max-w-4xl mx-auto">
-          <div className="relative w-full aspect-video rounded-2xl overflow-hidden shadow-[var(--shadow-forest)]">
-            <iframe
-              src="https://www.youtube-nocookie.com/embed/02IB3LcSedM"
-              title="Success Systems Network experience video"
-              className="absolute inset-0 w-full h-full"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerPolicy="strict-origin-when-cross-origin"
-              allowFullScreen
-              loading="lazy"
-            />
-          </div>
-        </div>
-
         {/* What Teens Will Do */}
         <div className="mb-16">
           <h3 className="text-2xl font-bold text-center mb-8 text-foreground">
